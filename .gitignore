@@ -1,0 +1,37 @@
+# Logs
+logs/
+*.log
+
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.test
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage
+coverage/
+
+# PM2
+.pm2/
+
+# Cache
+.cache/
+.eslintcache
